@@ -429,12 +429,4 @@
     XCTAssertTrue([country isEqualToString:@""]);
 }
 
-- (void)testN1 {
-    NSDictionary *result = [[PNConverter new] converToPhoneNumberNextString:@"+123456789012"];
-    NSString *number = result[KeyPhoneNumber];
-    NSString *country = result[KeyCountry];
-    XCTAssertTrue([number isEqualToString:@"+123456789012"]);
-    XCTAssertTrue([country isEqualToString:@""]);
-}
-
 @end

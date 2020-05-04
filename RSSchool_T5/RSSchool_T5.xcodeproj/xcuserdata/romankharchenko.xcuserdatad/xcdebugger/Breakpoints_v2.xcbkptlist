@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AD0EA88B-99ED-4851-BD94-6EEBE1DD3A56"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9833309D-EDFF-4158-A00A-16BDEEFED77E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T5Tests/PNConverterTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "424"
+            endingLineNumber = "424"
+            landmarkName = "-testN0"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6DA092A-3AD6-4DF4-9075-A1701EDB7CB5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T5Tests/PNConverterTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "-testBY0"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A6DA092A-3AD6-4DF4-9075-A1701EDB7CB5 - c08c710d0a4bc6b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PNConverterTests testBY0]"
+                  moduleName = "RSSchool_T5Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romankharchenko/Desktop/rs_school_5/rs.ios-stage1-task5/RSSchool_T5/RSSchool_T5Tests/PNConverterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "195">
+               </Location>
+               <Location
+                  uuid = "A6DA092A-3AD6-4DF4-9075-A1701EDB7CB5 - c08c710d0a4bc6b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PNConverterTests testBY0]"
+                  moduleName = "RSSchool_T5Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romankharchenko/Desktop/rs_school_5/rs.ios-stage1-task5/RSSchool_T5/RSSchool_T5Tests/PNConverterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "638">
+               </Location>
+               <Location
+                  uuid = "A6DA092A-3AD6-4DF4-9075-A1701EDB7CB5 - c08c710d0a4bc6b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PNConverterTests testBY0]"
+                  moduleName = "RSSchool_T5Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romankharchenko/Desktop/rs_school_5/rs.ios-stage1-task5/RSSchool_T5/RSSchool_T5Tests/PNConverterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "1058">
+               </Location>
+               <Location
+                  uuid = "A6DA092A-3AD6-4DF4-9075-A1701EDB7CB5 - c08c710d0a4bc6b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PNConverterTests testBY0]"
+                  moduleName = "RSSchool_T5Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romankharchenko/Desktop/rs_school_5/rs.ios-stage1-task5/RSSchool_T5/RSSchool_T5Tests/PNConverterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "1151">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80BD8B16-12E6-41D5-852B-36D959CAB23C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T5Tests/PNConverterTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "-testBY0"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A06D42BF-3800-4C36-9F48-E8382978A2A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T5Tests/PNConverterTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "-testBY3"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A06D42BF-3800-4C36-9F48-E8382978A2A7 - c08c7175224bc3b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PNConverterTests testBY3]"
+                  moduleName = "RSSchool_T5Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romankharchenko/Desktop/rs_school_5/rs.ios-stage1-task5/RSSchool_T5/RSSchool_T5Tests/PNConverterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "195">
+               </Location>
+               <Location
+                  uuid = "A06D42BF-3800-4C36-9F48-E8382978A2A7 - c08c7175224bc3b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PNConverterTests testBY3]"
+                  moduleName = "RSSchool_T5Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romankharchenko/Desktop/rs_school_5/rs.ios-stage1-task5/RSSchool_T5/RSSchool_T5Tests/PNConverterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "638">
+               </Location>
+               <Location
+                  uuid = "A06D42BF-3800-4C36-9F48-E8382978A2A7 - c08c7175224bc3b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PNConverterTests testBY3]"
+                  moduleName = "RSSchool_T5Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romankharchenko/Desktop/rs_school_5/rs.ios-stage1-task5/RSSchool_T5/RSSchool_T5Tests/PNConverterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1058">
+               </Location>
+               <Location
+                  uuid = "A06D42BF-3800-4C36-9F48-E8382978A2A7 - c08c7175224bc3b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PNConverterTests testBY3]"
+                  moduleName = "RSSchool_T5Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romankharchenko/Desktop/rs_school_5/rs.ios-stage1-task5/RSSchool_T5/RSSchool_T5Tests/PNConverterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1151">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91FF30B4-FDD3-44BA-8194-9CF0BBA2F286"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T5Tests/PNConverterTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "410"
+            endingLineNumber = "410"
+            landmarkName = "-testUZ0"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91FF30B4-FDD3-44BA-8194-9CF0BBA2F286 - c136232abf0e0b8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PNConverterTests testUZ0]"
+                  moduleName = "RSSchool_T5Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romankharchenko/Desktop/rs_school_5/rs.ios-stage1-task5/RSSchool_T5/RSSchool_T5Tests/PNConverterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "410"
+                  endingLineNumber = "410"
+                  offsetFromSymbolStart = "195">
+               </Location>
+               <Location
+                  uuid = "91FF30B4-FDD3-44BA-8194-9CF0BBA2F286 - c136232abf0e0b8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PNConverterTests testUZ0]"
+                  moduleName = "RSSchool_T5Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romankharchenko/Desktop/rs_school_5/rs.ios-stage1-task5/RSSchool_T5/RSSchool_T5Tests/PNConverterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "410"
+                  endingLineNumber = "410"
+                  offsetFromSymbolStart = "638">
+               </Location>
+               <Location
+                  uuid = "91FF30B4-FDD3-44BA-8194-9CF0BBA2F286 - c136232abf0e0b8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PNConverterTests testUZ0]"
+                  moduleName = "RSSchool_T5Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romankharchenko/Desktop/rs_school_5/rs.ios-stage1-task5/RSSchool_T5/RSSchool_T5Tests/PNConverterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "410"
+                  endingLineNumber = "410"
+                  offsetFromSymbolStart = "1058">
+               </Location>
+               <Location
+                  uuid = "91FF30B4-FDD3-44BA-8194-9CF0BBA2F286 - c136232abf0e0b8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PNConverterTests testUZ0]"
+                  moduleName = "RSSchool_T5Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romankharchenko/Desktop/rs_school_5/rs.ios-stage1-task5/RSSchool_T5/RSSchool_T5Tests/PNConverterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "410"
+                  endingLineNumber = "410"
+                  offsetFromSymbolStart = "1151">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92E73659-B585-416A-8D6A-66080EECA847"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T5Tests/PNConverterTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "-testRU0"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2F93BB7-239D-4DF1-BED6-8D20C29BA167"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T5Tests/PNConverterTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "-testRU0"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E4D77E6-69EB-4139-BB45-9687654BC4C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T5Tests/PNConverterTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "226"
+            endingLineNumber = "226"
+            landmarkName = "-testKZ8"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9F6BEBA-0E2C-4612-B912-7ECD71F793C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T5Tests/PNConverterTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "-testBY8"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
